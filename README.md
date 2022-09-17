@@ -21,7 +21,7 @@
 
 👉 CSS background-size, padding, margin, transform, resize etc.
 
-👉 Bootstrap container, row, circle, fluid, navbars etc. 
+👉 Bootstrap container, row, circle, fluid, navbars, responsive etc. 
 
 👉 Github & Git commands (push, pull, commit, add etc.)
 
